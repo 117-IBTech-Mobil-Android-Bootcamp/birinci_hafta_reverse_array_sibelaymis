@@ -1,0 +1,1 @@
+# birinci_hafta_reverse_array_sibelaymis
